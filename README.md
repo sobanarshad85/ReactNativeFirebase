@@ -1,6 +1,6 @@
 # ReactNativeFirebase
-This repository gives you a complete login authentication system using firebase.
- This login system is properly checked with all kind of error/mistakes in login authenication.
+This repository gives you a complete sign up and login authentication system using firebase.
+ This login system is properly checked with all kind of error/mistakes in login authenication and sign up.
  Just clone this project.
  npm install.
  eact-native run-android or react-native run-ios.
