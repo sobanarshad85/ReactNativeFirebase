@@ -28,12 +28,12 @@ const instructions = Platform.select({
 
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyCPmtgjkCYBsfmT9inoPRHukke4RRVOd6w",
-  authDomain: "asdf-9a047.firebaseapp.com",
-  databaseURL: "https://asdf-9a047.firebaseio.com",
-  projectId: "asdf-9a047",
-  storageBucket: "asdf-9a047.appspot.com",
-  messagingSenderId: "544472260426"
+  apiKey: "find you api key from firebase.google.com",
+  authDomain: "find you api key from firebase.google.com",
+  databaseURL: "find you api key from firebase.google.com",
+  projectId: "find you api key from firebase.google.com",
+  storageBucket: "find you api key from firebase.google.com",
+  messagingSenderId: "find you api key from firebase.google.com"
 };
 
 firebase.initializeApp(config);
